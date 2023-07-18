@@ -1,3 +1,2 @@
-a = ["as",
-     "sdf" , "Sdfsdf"]
+a = ["as", "sdf", "Sdfsdf"]
 print(a)
